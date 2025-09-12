@@ -1,5 +1,5 @@
 # RSA-encryption
-RCS encryption 
+RSA encryption 
 
 Hiiii, welcome to my RCS encryption project's github page!
 
